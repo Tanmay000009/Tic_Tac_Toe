@@ -16,3 +16,8 @@ Thank you MLH Local Hack Day for these excting, amazing activities.
 
 # Output and working
 ![alt tag](https://raw.githubusercontent.com/Tanmay000009/Tic_Tac_Toe/main/Working.png)
+ Here, you can see the starting screen of program, and program asks for location where the player wants key to be placed. Then the same question to
+ player 2. And after 5 moves, it will start checking if there is any winner.
+ 
+# Thank you
+  Thank you so much for reading. Hope you enjoyed! Have a nice day, or sleep (if it's night xD)
